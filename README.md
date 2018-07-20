@@ -1,4 +1,4 @@
-# JavaHomeTaskThirdLesson
+# Java.First.GeekBrains.HomeTaskThirdLesson
 Homework for third lesson of Java 
 Проект третьего домашнего задания.
 
